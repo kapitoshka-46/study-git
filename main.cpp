@@ -12,6 +12,10 @@ void func4() {
     std::cout << "just func4()" << std::endl;
 }
 
+void func5() {
+    std::cout <<"5" << std::endl;;
+}
+
 int add3(int a) {
     int res = a + 3;
     std::cout << "func3(" << a << ") = " << res << std::endl;
