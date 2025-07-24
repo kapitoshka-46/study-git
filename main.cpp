@@ -16,7 +16,7 @@ int add3(int a) {
 
 int main() {
     func1();
-    func3(5);
+    add3(5);
     for (int i = 0; i < 3; i++) {
         func1();    // больше вызовов!
     }
