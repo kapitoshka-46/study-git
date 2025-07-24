@@ -13,12 +13,20 @@ void func4() {
 }
 
 int fizfizbaz = 0;
+int some = 0;
+int fooooo = 0;
+
+
 void fake_main_func() {
     std::cout << "HAHAHHA LOX" << std::endl;
 }
 
-int some = 0;
-int fooooo = 0;
+void func5() {
+    std::cout <<"5" << std::endl;;
+}
+
+int wtf = 1;
+int fooooo_bar = 10;
 
 int add3(int a) {
     int res = a + 3;
