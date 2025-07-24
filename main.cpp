@@ -19,7 +19,6 @@ void fake_main_func() {
 
 int some = 0;
 int fooooo = 0;
-int babatbar = 0;
 
 int add3(int a) {
     int res = a + 3;
