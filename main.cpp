@@ -14,7 +14,7 @@ void func4() {
 
 int main() {
     func1();
-
+    func4();
     for (int i = 0; i < 3; i++) {
         func1();    // больше вызовов!
     }
