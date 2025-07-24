@@ -8,6 +8,10 @@ void func2() {
     std::cout << "func2()" << std::endl;
 }
 
+void func4() {
+    std::cout << "just func4()" << std::endl;
+}
+
 int main() {
     func1();
 
